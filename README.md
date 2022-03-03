@@ -4,5 +4,4 @@ My personal repository
 
 Software developer equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
-linkedin.com/in/alexey-zrelov
 https://www.linkedin.com/in/alexey-zrelov
